@@ -1,0 +1,126 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Amita', serif;
+}
+
+p, a, small{
+    font-family: 'Kurale', serif;
+}
+
+p, a {
+    font-size: 1.1em;
+}
+
+small {
+    font-size: 1em !important;
+    color: #FAF9F6;
+}
+
+#title img{
+    margin: 40% 0% 0% 0% !important;
+}
+
+#title h1 {
+    margin: 20% 0% 8% 0%;
+}
+
+.section h2{
+    color: #FAF9F6;
+    margin: 5% 0% 2% 0%;
+}
+
+.rounded {
+    border-radius: 15%;
+    border: none;
+}
+
+.about-text {
+    background-color: #FAF9F6;
+}
+
+.about-text div {
+    padding: 5% 10% 5% 2%;
+    justify-content: left;
+}
+
+.about-text h4{
+    padding-bottom: 5%;
+}
+
+.about-text p {
+    padding-bottom: 2%;
+}
+
+.tab {
+    background-color: rgba(0, 0, 0, 0.105);
+    width: 100vw;
+    height: 100vh;
+}
+
+.anchor {
+    position: fixed;
+    bottom: 20px; /* Adjust as needed */
+    right: 20px; /* Adjust as needed */
+    padding: 10px 20px;
+    background-color: #FAF9F6; /* Change to your desired color */
+    color: #1B1212; /* Change to your desired color */
+    text-decoration: none;
+    border: 2px solid #1b12122a;
+    border-radius: 5px;
+}
+
+.section a{
+    color: #1B1212;
+    text-decoration: none;
+    font-size: 1.3em;
+    font-weight: 400;
+}
+
+.section a:hover {
+    color: #FAF9F6;
+    text-decoration: underline;
+}
+
+.section a:active {
+    color: #7f3837;
+}
+
+.anchor:hover{
+    text-decoration: underline;
+}
+
+input, textarea {
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 4% !important;
+    padding: 2%;
+}
+
+button {
+    border: none;
+    border-radius: 5px !important;
+    margin: 10% 0% !important;
+    width: 100%;
+    padding: 4% 12%;
+
+    color: #FAF9F6;
+    text-align: center;
+    background-color:rgb(139, 35, 33);
+    border: 2px solid #1b12122a;
+}
+
+button:hover {
+    box-shadow: 2px 2px #1b121252 !important; 
+}
+
+.nav {
+    padding: 10% 0%;
+    text-align: center;
+}
+
+.nav div {
+    padding: 1% 0%;
+}
+
+
+
